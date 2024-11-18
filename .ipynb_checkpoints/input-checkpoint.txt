@@ -1,0 +1,3 @@
+Hello world
+This is a sample input file for MapReduce
+MapReduce is a powerful data processing model
